@@ -1,0 +1,8 @@
+## QCD Expander firmware ##
+
+This is the firmware for the QCD Expander. It will work on legacy/kit through-hole versions
+as well as current SMT versions.
+
+The ./burn command is a helpful wrapper which sets the fuses and flashes the hex file.
+
+The _5ms hex file is preferred, but the original hex file will work as well.
